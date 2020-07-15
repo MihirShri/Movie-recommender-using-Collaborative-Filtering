@@ -1,2 +1,2 @@
 # Movie-recommender-using-Collaborative-Filtering
-This repository contains the code along with the data for a movie recommender system using user based collaborative filtering. 
+This repository contains the code along with the data for a movie recommender system using user based collaborative filtering. <br/><br/> Data has been splitted manually into training and test sets just to check the accuracy of the model. Accuracy: around 92%. <br/><br/> The program takes userID as input and recommends 5 movies that the user would like to see based on the ratings of the other similar users.
